@@ -26,6 +26,8 @@ function copyToClipboard() {
     "pluginKey": "a0e721d6-de54-49df-bb00-0a31ccda1eda"
   });
 
+  ChannelIO('openSupportBot', supportBotId: "108098", message?: null)
+
 </script>
 
 </body>
