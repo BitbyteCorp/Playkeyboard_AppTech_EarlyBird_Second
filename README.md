@@ -3,7 +3,9 @@
 <img src= "./Resource/page-image-1.png">
 <img src= "./Resource/page-image-2.png">
 <img src= "./Resource/page-image-3.png">
-<img src="./Resource/page-image-4.png" onclick="copyToClipboard()" style="cursor: pointer;">
+<a href="bitbyte.playkeyboard://theme.plkey.app/theme/PLKEY0-L-113" id="link">
+<img src="./Resource/page-image-4.png">
+</a>
 <img src= "./Resource/page-image-5.png">
 
 <script>
