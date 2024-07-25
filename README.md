@@ -18,8 +18,7 @@
   if (error) {
     console.error(error);
   } else {
-    ChannelIO('openSupportBot', supportBotId: "108098", message?: null)
-    ChannelIO('showMessenger');
+    ChannelIO('openSupportBot', supportBotId: '108098', message?: null)
   }
 });
 
